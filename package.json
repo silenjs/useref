@@ -1,7 +1,7 @@
 {
-  "name": "useref",
+  "name": "useref-sfbest",
   "version": "1.4.1",
-  "description": "Parse build blocks in HTML files to replace references",
+  "description": "Parse build blocks in HTML files to replace references.Customized by sfbest.",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -28,7 +28,7 @@
     "link",
     "ref"
   ],
-  "author": "Jonathan Kemp <kempdogg@gmail.com> (http://jonkemp.com/)",
+  "author": "silenjs <silenjs@gmail.com> (http://silenjs.github.io/)",
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.1.2",
@@ -39,5 +39,5 @@
     "mocha": "*",
     "nyc": "^11.3.0"
   },
-  "repository": "jonkemp/useref"
+  "repository": "silenjs/useref-sfbest"
 }
